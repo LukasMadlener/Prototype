@@ -1,2 +1,2 @@
-# Prototype
+# Prototype Game
 Prototype
